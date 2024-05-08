@@ -1,4 +1,4 @@
-# D-FLIPDLOP-NEGEDGE
+# D FLIPDLOP NEGEDGE
 ### Exp. No: 08
 **AIM:**
 
